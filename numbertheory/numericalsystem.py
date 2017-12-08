@@ -29,6 +29,18 @@ def fconvert(f,b,n):
 	#print(d)
 	return d
 
+# b进制展开,di整数位,df小数位	
+def expan(di,df,b):
+	r=0;
+	l=len(di)
+	for i in range(l):
+		r = r + di[i]*b**(l-1-i)
+	l=len(df)
+	for i in range(l):
+		r = r + df[i]*b**(-1*(i+1))
+	#print(r)
+	return r	
+
 if __name__ == '__main__':
 	
 	print(iconvert(5,2))
