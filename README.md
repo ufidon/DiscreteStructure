@@ -1,5 +1,5 @@
 # DiscreteStructure
-CS245 Discrete Structure I
+Discrete Structure introduces discrete structures used in computer science. It includes proof techniques, fundamental structures, basic algorithm analysis, graph theory, computational models and proof of correctness.
 
 
 ## Tools
