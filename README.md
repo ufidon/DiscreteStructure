@@ -17,3 +17,10 @@ Discrete Structure introduces discrete structures used in computer science. It i
 * [Free graph theory software](http://www.free-graph-theory-software.org/)
 * [Graph Magics](http://www.graph-magics.com)
 * [Graph online](http://graphonline.ru)
+* [NetworkX](http://networkx.github.io/)
+* [Gephi](https://gephi.org/)
+* [Open-Graphtheory](http://www.open-graphtheory.org/)
+* [Tikz graph examples](http://www.texample.net/tikz/examples/tag/graphs/)
+* [Graphviz](https://www.graphviz.org/)
+* [Gnuplot](http://www.gnuplot.info/)
+
