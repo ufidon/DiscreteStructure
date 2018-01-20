@@ -23,4 +23,8 @@ Discrete Structure introduces discrete structures used in computer science. It i
 * [Tikz graph examples](http://www.texample.net/tikz/examples/tag/graphs/)
 * [Graphviz](https://www.graphviz.org/)
 * [Gnuplot](http://www.gnuplot.info/)
+* [Sagemath graph survey](https://wiki.sagemath.org/graph_survey)
+* [Sagemath graph theory project](https://wiki.sagemath.org/graph)
+* [NAUTY -- Graph Isomorphism](http://www3.cs.stonybrook.edu/~algorith/implement/nauty/implement.shtml)
+* [bliss: A Tool for Computing Automorphism Groups and Canonical Labelings of Graphs](http://www.tcs.hut.fi/Software/bliss/)
 
