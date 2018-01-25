@@ -27,4 +27,5 @@ Discrete Structure introduces discrete structures used in computer science. It i
 * [Sagemath graph theory project](https://wiki.sagemath.org/graph)
 * [NAUTY -- Graph Isomorphism](http://www3.cs.stonybrook.edu/~algorith/implement/nauty/implement.shtml)
 * [bliss: A Tool for Computing Automorphism Groups and Canonical Labelings of Graphs](http://www.tcs.hut.fi/Software/bliss/)
+* [A Graph Isomorphism Algorithm](http://www.dharwadker.org/tevet/isomorphism/)
 
